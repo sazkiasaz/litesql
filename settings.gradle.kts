@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Praktikum RecyclerView"
+rootProject.name = "litesql"
 include(":app")
