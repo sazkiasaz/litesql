@@ -8,7 +8,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.praktikumrecyclerview.Database.Note
-import com.practicum.litesql.R
+import com.example.praktikumrecyclerview.R
+
 
 class MainActivity : AppCompatActivity() {
 

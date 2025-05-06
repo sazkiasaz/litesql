@@ -7,7 +7,8 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.praktikumrecyclerview.Database.Note
-import com.practicum.litesql.R
+import com.example.praktikumrecyclerview.R
+
 
 class NoteAdapter(
     private val notes: MutableList<Note>,

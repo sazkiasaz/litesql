@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.practicum.litesql"
+    namespace = "com.example.praktikumrecyclerview"
     compileSdk = 35
 
     defaultConfig {
